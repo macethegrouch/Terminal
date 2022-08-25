@@ -14,3 +14,5 @@ Total Hardware requirements:
 - Unified C3 Daughterboard and JST cable
 - 5x M3x6
 - 5x M3x4
+
+![Terminal](https://user-images.githubusercontent.com/71409907/186707987-9349c999-6e99-4134-b74a-8862e86428ac.jpg)
